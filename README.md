@@ -4,13 +4,24 @@
 
 ### `Junior Developer` · `Full-Stack Development` · `Game Modding`
 
-`💜` `🌙` `✨`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C4AB6,50:9B72CF,100:C8A2FF&height=180&section=header&text=Sofie%20Verhoeven&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Learn&descAlignY=55&descSize=18" width="100%"/>
+
+<p>
+  <a href="https://sofieverhoeven-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/SofieVerhoeven">
+    <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 💜 About Me
 
-Hi! I'm **Sofie**, a junior developer who enjoys turning ideas into functional and creative digital projects.
+Hi! I'm **Sofie**, a junior developer from Belgium who enjoys turning ideas into functional and creative digital projects.
 
 My main interests are **web development, databases, software development and game modding**.
 
@@ -30,30 +41,42 @@ I especially enjoy projects where I can combine technical problem-solving with c
 
 ### 💻 Languages
 
-`JavaScript` · `TypeScript` · `C#` · `SQL` · `HTML` · `CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,html,css" />
+</p>
 
 ### ⚛️ Frameworks & Development
 
-`React` · `Next.js` · `.NET`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,dotnet" />
+</p>
 
 ### 🗄️ Databases & DevOps
 
-`MariaDB` · `Prisma` · `Git` · `GitHub` · `Docker` · `Vercel`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb,prisma,docker,git,github,vercel" />
+</p>
 
 ### 🧰 Tools
 
-`VS Code` · `Unity` · `Sims 4 Studio` · `Lot 51 Tuning Builder`
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,unity" />
+</p>
 
 ---
 
 ## ✦ Featured Projects
 
+<div align="center">
+
 | Project                         | Description                                               |
-| :------------------------------ | :-------------------------------------------------------- |
+| ------------------------------- | --------------------------------------------------------- |
 | 🎮 **VelouraMods**              | The Sims 4 gameplay mods and custom career systems        |
 | 🗄️ **Becra Database Platform** | Full-stack database project using MariaDB, Prisma and SQL |
 | 🐾 **Pokémon Web Project**      | React-based web application                               |
 | 🎮 **Unity 2D Platformer**      | 2D game developed with Unity and C#                       |
+
+</div>
 
 ---
 
@@ -95,9 +118,9 @@ I'm particularly interested in becoming stronger across the **full development c
 
 <div align="center">
 
-**Code • Build • Learn • Repeat**
+<img src="https://github-readme-stats.vercel.app/api?username=SofieVerhoeven&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0A14&title_color=C8A2FF&icon_color=A78BFA&text_color=E9D5FF" height="165"/>
 
-`Repositories` · `Projects` · `Contributions`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofieVerhoeven&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0A14&title_color=C8A2FF&text_color=E9D5FF" height="165"/>
 
 </div>
 
@@ -131,15 +154,17 @@ I'm particularly interested in becoming stronger across the **full development c
 
 <div align="center">
 
-🌐 **Portfolio**
-[sofieverhoeven-portfolio.vercel.app](https://sofieverhoeven-portfolio.vercel.app)
+<a href="https://sofieverhoeven-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-💻 **GitHub**
-[github.com/SofieVerhoeven](https://github.com/SofieVerhoeven)
+<a href="https://github.com/SofieVerhoeven">
+  <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -149,13 +174,13 @@ I'm particularly interested in becoming stronger across the **full development c
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2FF,50:9B72CF,100:6C4AB6&height=100&section=footer" width="100%"/>
+
 <!--
-Privacy-friendly by design:
-• No visitor counter
-• No tracking pixels
-• No analytics
-• No GitHub statistics services
-• No external badge services
-• No externally hosted images
-• No unnecessary personal information
+  Veloura Purple Theme
+  Primary: #6C4AB6
+  Purple:  #8B5CF6
+  Lavender: #C8A2FF
+  Dark:    #0D0A14
+  Text:    #E9D5FF
 -->
