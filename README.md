@@ -114,18 +114,6 @@ I'm particularly interested in becoming stronger across the **full development c
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SofieVerhoeven&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0A14&title_color=C8A2FF&icon_color=A78BFA&text_color=E9D5FF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofieVerhoeven&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0A14&title_color=C8A2FF&text_color=E9D5FF" height="165"/>
-
-</div>
-
----
-
 ## ✦ What I Like Building
 
 <div align="center">
