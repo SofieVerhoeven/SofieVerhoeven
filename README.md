@@ -54,7 +54,7 @@ I especially enjoy projects where I can combine technical problem-solving with c
 ### 🗄️ Databases & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,prisma,docker,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,prisma,docker,git,github,vercel" />
 </p>
 
 ### 🧰 Tools
